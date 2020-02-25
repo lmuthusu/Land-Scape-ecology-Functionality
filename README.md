@@ -1,2 +1,2 @@
-# Land-Scape-ecology-Functionality
+# Landscape-ecology-Functionality
 QGIS metrics for landscape ecology
